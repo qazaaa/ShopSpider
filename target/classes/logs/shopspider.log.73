@@ -1,0 +1,701 @@
+2015-04-28 06:17:40 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:17:41 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:17:43 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 12 shops in shopsContainer
+ 2015-04-28 06:17:47 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 12 shops in shopsContainer
+ 2015-04-28 06:17:47 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CF%D4%CA%DD
+ 2015-04-28 06:17:50 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C5%B7%C3%C0%B7%E7
+ 2015-04-28 06:17:50 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 12 shops to operate!
+ 2015-04-28 06:17:51 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C6%F8%D6%CA
+ 2015-04-28 06:17:52 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C0%D9%CB%BF
+ 2015-04-28 06:17:53 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:17:53 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:17:55 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 14 shops in shopsContainer
+ 2015-04-28 06:17:55 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 14 shops in shopsContainer
+ 2015-04-28 06:17:57 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%BA%AB%B9%FA
+ 2015-04-28 06:17:58 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 14 shops in shopsContainer
+ 2015-04-28 06:17:58 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%BA%AB%B0%E6
+ 2015-04-28 06:18:00 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 14 shops to operate!
+ 2015-04-28 06:18:05 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:18:06 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:18:07 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:18:10 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:18:10 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:18:12 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B8%DF%B6%CB
+ 2015-04-28 06:18:12 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B0%EB%C9%ED%C8%B9
+ 2015-04-28 06:18:17 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 12 shops in shopsContainer
+ 2015-04-28 06:18:19 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=t%D0%F4
+ 2015-04-28 06:18:19 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 12 shops in shopsContainer
+ 2015-04-28 06:18:20 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 12 shops to operate!
+ 2015-04-28 06:18:22 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:18:23 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:18:23 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C3%AB%D5%EB%D6%AF%C9%C0
+ 2015-04-28 06:18:26 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B1%B3%D0%C4%B5%F5%B4%F8
+ 2015-04-28 06:18:27 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=misspan
+ 2015-04-28 06:18:30 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:18:30 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:18:31 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B3%C4%C9%C0
+ 2015-04-28 06:18:32 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C0%D9%CB%BF%C9%C0
+ 2015-04-28 06:18:33 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:18:33 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B8%DF%D1%FC
+ 2015-04-28 06:18:38 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 14 shops in shopsContainer
+ 2015-04-28 06:18:40 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 14 shops to operate!
+ 2015-04-28 06:18:42 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:18:44 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:18:45 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D1%A9%B7%C4%C9%C0
+ 2015-04-28 06:18:45 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:18:50 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B7%E7%D2%C2
+ 2015-04-28 06:18:50 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:18:53 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C1%AC%D2%C2%C8%B9
+ 2015-04-28 06:18:53 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:18:54 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=panboutique
+ 2015-04-28 06:18:57 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CD%E2%C3%B3%C4%D0%D7%B0
+ 2015-04-28 06:18:58 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 13 shops in shopsContainer
+ 2015-04-28 06:18:58 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 13 shops in shopsContainer
+ 2015-04-28 06:19:00 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 13 shops to operate!
+ 2015-04-28 06:19:02 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C8%D5%CF%B5
+ 2015-04-28 06:19:04 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C8%D5%B5%A5
+ 2015-04-28 06:19:04 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:19:09 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CF%C4%D7%B0
+ 2015-04-28 06:19:09 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B3%C4%C9%C0
+ 2015-04-28 06:19:11 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 11 shops to operate!
+ 2015-04-28 06:19:12 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:19:15 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:19:16 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:19:18 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B8%B4%B9%C5
+ 2015-04-28 06:19:20 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:19:21 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:19:23 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:19:27 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=JURY
+ 2015-04-28 06:19:28 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B3%B1%C1%F7
+ 2015-04-28 06:19:29 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 18 shops in shopsContainer
+ 2015-04-28 06:19:29 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=BLACK
+ 2015-04-28 06:19:30 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=HARE
+ 2015-04-28 06:19:31 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 18 shops to operate!
+ 2015-04-28 06:19:33 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=BEAMS
+ 2015-04-28 06:19:35 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:19:35 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:19:38 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D0%DD%CF%D0%BF%E3
+ 2015-04-28 06:19:39 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 14 shops in shopsContainer
+ 2015-04-28 06:19:41 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 14 shops to operate!
+ 2015-04-28 06:19:42 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C5%A3%D7%D0%BF%E3
+ 2015-04-28 06:19:42 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:19:46 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%F2%B5%D7%BF%E3
+ 2015-04-28 06:19:48 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:19:49 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:19:51 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=wang
+ 2015-04-28 06:19:51 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 15 shops to operate!
+ 2015-04-28 06:19:52 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:19:55 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:19:59 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:100- Truncated chunk ( expected size: 32736; actual size: 18300)
+ 2015-04-28 06:19:59 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%C3%C0%CD%C8%CD%E0&s=9340
+ 2015-04-28 06:20:00 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=davida
+ 2015-04-28 06:20:01 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:20:01 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:20:01 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=marie
+ 2015-04-28 06:20:02 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=mullin
+ 2015-04-28 06:20:03 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:20:04 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:20:06 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B6%AB%B4%F3%C3%C5
+ 2015-04-28 06:20:06 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 15 shops in shopsContainer
+ 2015-04-28 06:20:10 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C1%C1%C6%AC
+ 2015-04-28 06:20:11 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 15 shops to operate!
+ 2015-04-28 06:20:11 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D0%DE%C9%ED
+ 2015-04-28 06:20:14 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CD%BC%B0%B8
+ 2015-04-28 06:20:15 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:20:16 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:20:18 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 12 shops in shopsContainer
+ 2015-04-28 06:20:18 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 12 shops in shopsContainer
+ 2015-04-28 06:20:21 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 12 shops in shopsContainer
+ 2015-04-28 06:20:21 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 12 shops to operate!
+ 2015-04-28 06:20:22 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%F3%C5%C6
+ 2015-04-28 06:20:23 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C4%DD%C4%DD%BC%D2
+ 2015-04-28 06:20:27 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:20:28 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:20:31 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 15 shops to operate!
+ 2015-04-28 06:20:32 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D7%D6%C4%B8
+ 2015-04-28 06:20:33 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C5%FA%B7%A2%B5%EA
+ 2015-04-28 06:20:34 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:20:34 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:20:35 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C6%B4%BD%D3
+ 2015-04-28 06:20:35 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:20:39 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:20:40 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:20:41 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D0%C2%BF%EE
+ 2015-04-28 06:20:41 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:20:43 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C5%B7%D6%DE%D5%BE
+ 2015-04-28 06:20:43 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C2%EA%C0%F6%C3%B4%C1%D6
+ 2015-04-28 06:20:44 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%BA%EC%C8%CB
+ 2015-04-28 06:20:46 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 12 shops in shopsContainer
+ 2015-04-28 06:20:48 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 12 shops in shopsContainer
+ 2015-04-28 06:20:49 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 12 shops in shopsContainer
+ 2015-04-28 06:20:51 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 12 shops to operate!
+ 2015-04-28 06:20:52 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:20:52 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:20:57 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%BF%C9%AB
+ 2015-04-28 06:20:58 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 12 shops in shopsContainer
+ 2015-04-28 06:20:59 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 12 shops in shopsContainer
+ 2015-04-28 06:21:01 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 12 shops to operate!
+ 2015-04-28 06:21:01 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:21:04 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:21:05 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CD%F8%C2%E7
+ 2015-04-28 06:21:06 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%BB%A8%C9%AB
+ 2015-04-28 06:21:08 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%BA%AB%B9%FA%D5%FD%C6%B7
+ 2015-04-28 06:21:09 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 16 shops in shopsContainer
+ 2015-04-28 06:21:11 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 16 shops to operate!
+ 2015-04-28 06:21:11 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:21:13 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:21:15 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B6%A9%B5%A5
+ 2015-04-28 06:21:15 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:21:16 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:21:21 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:21:22 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:21:24 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:21:25 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B0%EB%C9%ED%C8%B9
+ 2015-04-28 06:21:25 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CA%B1%C9%D0%CC%D7%D7%B0
+ 2015-04-28 06:21:26 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CE%C0%D2%C2
+ 2015-04-28 06:21:27 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=t%D0%F4
+ 2015-04-28 06:21:31 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 12 shops to operate!
+ 2015-04-28 06:21:32 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C3%AB%D5%EB%D6%AF%C9%C0
+ 2015-04-28 06:21:33 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:21:33 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:21:36 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=selah
+ 2015-04-28 06:21:36 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:21:38 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:21:40 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B6%CC%CD%E2%CC%D7
+ 2015-04-28 06:21:40 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 15 shops in shopsContainer
+ 2015-04-28 06:21:41 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 15 shops to operate!
+ 2015-04-28 06:21:43 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C8%DE%C9%C0
+ 2015-04-28 06:21:45 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:21:45 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:21:48 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B3%C4%C9%C0
+ 2015-04-28 06:21:49 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:21:51 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:21:52 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:21:53 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:21:57 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 13 shops in shopsContainer
+ 2015-04-28 06:21:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 13 shops in shopsContainer
+ 2015-04-28 06:22:01 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 13 shops to operate!
+ 2015-04-28 06:22:03 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:22:06 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 11 shops in shopsContainer
+ 2015-04-28 06:22:06 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C1%AC%D2%C2%C8%B9
+ 2015-04-28 06:22:08 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D6%D0%B4%F3%CD%AF
+ 2015-04-28 06:22:08 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%F2%B5%D7%C9%C0
+ 2015-04-28 06:22:10 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C2%F3%B5%C4%B0%CD%C0%AD
+ 2015-04-28 06:22:10 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%BF%E3%D7%D3
+ 2015-04-28 06:22:11 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C9%CF%D2%C2
+ 2015-04-28 06:22:11 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 11 shops to operate!
+ 2015-04-28 06:22:12 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D0%DD%CF%D0
+ 2015-04-28 06:22:15 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:22:15 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:22:15 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B6%F9%CD%AF%D7%B0
+ 2015-04-28 06:22:16 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:22:18 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 11 shops in shopsContainer
+ 2015-04-28 06:22:19 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 11 shops in shopsContainer
+ 2015-04-28 06:22:20 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%BC%D3%BA%F1
+ 2015-04-28 06:22:21 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 11 shops to operate!
+ 2015-04-28 06:22:28 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:22:28 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:22:29 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:22:31 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:22:31 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:22:31 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:22:39 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CF%C4%D7%B0
+ 2015-04-28 06:22:40 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 8 shops in shopsContainer
+ 2015-04-28 06:22:41 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 8 shops in shopsContainer
+ 2015-04-28 06:22:41 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 8 shops to operate!
+ 2015-04-28 06:22:41 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B1%A6%B1%A6
+ 2015-04-28 06:22:41 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CD%E2%CC%D7
+ 2015-04-28 06:22:43 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=t%D0%F4
+ 2015-04-28 06:22:45 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:22:45 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:22:45 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%BA%C7%EF
+ 2015-04-28 06:22:45 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:22:48 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%BA%D7%B0
+ 2015-04-28 06:22:50 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D0%C2%BF%EE
+ 2015-04-28 06:22:51 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B0%CD%C0%AD
+ 2015-04-28 06:22:51 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 16 shops to operate!
+ 2015-04-28 06:22:52 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C4%D0%BA%A2
+ 2015-04-28 06:22:53 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:22:54 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:22:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:22:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:23:00 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:23:01 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 4 shops to operate!
+ 2015-04-28 06:23:07 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:23:08 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:23:09 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:23:09 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:23:11 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:23:11 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:23:14 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D2%C2%B7%FE
+ 2015-04-28 06:23:16 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%BF%C3%DE
+ 2015-04-28 06:23:16 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B3%A4%D0%E4
+ 2015-04-28 06:23:16 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C4%D0%CD%AF
+ 2015-04-28 06:23:20 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%BA%AB%B0%E6
+ 2015-04-28 06:23:21 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:23:21 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:23:22 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:23:23 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:23:23 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CC%D7%D7%B0
+ 2015-04-28 06:23:23 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D0%A1%CE%F7%D7%B0
+ 2015-04-28 06:23:24 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:23:24 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C6%D5%CD%A8%CD%E2%CC%D7
+ 2015-04-28 06:23:26 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:23:28 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C3%DE%B7%FE
+ 2015-04-28 06:23:31 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:23:37 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:23:38 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:23:39 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:23:39 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:23:40 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:23:41 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:23:46 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C3%DE%B0%C0
+ 2015-04-28 06:23:50 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C6%A4%D2%C2
+ 2015-04-28 06:23:50 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B3%C4%C9%C0
+ 2015-04-28 06:23:50 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C3%AB%D2%C2
+ 2015-04-28 06:23:51 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:23:51 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:23:51 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%BC%D0%BF%CB
+ 2015-04-28 06:23:53 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:23:54 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:23:54 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:23:56 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D5%EB%D6%AF%C9%C0
+ 2015-04-28 06:23:59 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:24:01 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:24:03 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C2%ED%BC%D7
+ 2015-04-28 06:24:03 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:24:05 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B7%E7%D2%C2
+ 2015-04-28 06:24:08 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CE%F7%B7%FE
+ 2015-04-28 06:24:09 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:24:11 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:24:11 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:24:12 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:24:14 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:24:17 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D0%DD%CF%D0%BF%E3
+ 2015-04-28 06:24:19 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:24:21 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:24:21 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:24:24 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%F2%B5%D7%BF%E3
+ 2015-04-28 06:24:24 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:24:24 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:24:24 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=ftx
+ 2015-04-28 06:24:24 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D4%CB%B6%AF%D6%D0%B3%A4%BF%E3%A3%AF%B6%CC%BF%E3
+ 2015-04-28 06:24:26 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:24:29 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=ulzzang
+ 2015-04-28 06:24:29 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%CC%D0%E5
+ 2015-04-28 06:24:31 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:24:35 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B0%FC%D3%CA
+ 2015-04-28 06:24:37 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:24:39 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:24:39 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:24:40 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D3%A1%BB%A8
+ 2015-04-28 06:24:40 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:24:41 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:24:41 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:24:46 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D4%AD%CB%DE%B7%E7
+ 2015-04-28 06:24:51 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B8%B4%B9%C5
+ 2015-04-28 06:24:51 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:24:52 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:24:53 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:24:53 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:24:53 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:24:56 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:24:56 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D7%D6%C4%B8
+ 2015-04-28 06:25:01 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D1%A7%D4%BA%B7%E7
+ 2015-04-28 06:25:01 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:25:01 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%BF%ED%CB%C9
+ 2015-04-28 06:25:03 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%F3%C2%EB
+ 2015-04-28 06:25:03 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CF%C4%BC%BE
+ 2015-04-28 06:25:07 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C7%E9%C2%C2
+ 2015-04-28 06:25:08 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:25:09 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:25:11 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:25:12 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:25:12 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D0%C2%BF%EE
+ 2015-04-28 06:25:13 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:25:14 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:25:21 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C8%D5%CF%B5
+ 2015-04-28 06:25:21 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:25:21 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:25:21 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:25:25 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C4%D0%C5%AE
+ 2015-04-28 06:25:27 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:25:27 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:25:27 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:25:30 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B6%CC%D0%E4
+ 2015-04-28 06:25:31 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:25:33 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:25:33 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%BC%F2%D4%BC
+ 2015-04-28 06:25:34 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:25:35 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%BA%DA%B0%D7
+ 2015-04-28 06:25:36 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%BA%AB%B9%FA
+ 2015-04-28 06:25:36 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%BF%C3%DE
+ 2015-04-28 06:25:39 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CE%C0%D2%C2
+ 2015-04-28 06:25:40 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:25:41 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:25:41 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:25:41 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:25:45 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=t%D0%F4
+ 2015-04-28 06:25:45 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:25:46 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:25:51 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:25:53 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C8%DE%C9%C0
+ 2015-04-28 06:25:53 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:25:54 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:25:55 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:25:58 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:25:58 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B1%B3%D0%C4%B5%F5%B4%F8
+ 2015-04-28 06:26:01 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=bzloli
+ 2015-04-28 06:26:01 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:26:02 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:26:04 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=jg
+ 2015-04-28 06:26:06 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:26:08 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:26:09 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:26:10 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=miss.j
+ 2015-04-28 06:26:10 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:26:11 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:26:12 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CA%B1%C9%D0%C4%D0%C5%AE
+ 2015-04-28 06:26:12 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CA%B1%C9%D0%C7%E9%C2%C2
+ 2015-04-28 06:26:13 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:26:13 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CE%DE
+ 2015-04-28 06:26:16 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C4%BE%D7%D3%B4%E5%B7%FE%CA%CE
+ 2015-04-28 06:26:21 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:26:22 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:26:23 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:26:25 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:26:25 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:26:28 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:26:30 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B1%AC%D7%DF%C2%DC%C0%F2
+ 2015-04-28 06:26:31 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B3%B1%D7%DC%BB%E3
+ 2015-04-28 06:26:31 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:26:35 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:26:37 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:26:37 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:26:37 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B1%B4%CA%AB%B6%FB
+ 2015-04-28 06:26:38 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:26:40 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CE%C0%D2%C2
+ 2015-04-28 06:26:41 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:26:41 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:26:45 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D0%DD%CF%D0%BF%E3
+ 2015-04-28 06:26:47 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D1%C7%C2%E9
+ 2015-04-28 06:26:49 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:26:51 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C4%DA%BF%E3
+ 2015-04-28 06:26:51 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:26:53 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:26:55 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:26:55 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=t%D0%F4
+ 2015-04-28 06:26:55 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D0%DE%C9%ED
+ 2015-04-28 06:27:00 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:27:01 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:27:02 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:27:05 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%F2%B5%D7%BF%E3
+ 2015-04-28 06:27:05 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CE%C4%D0%D8
+ 2015-04-28 06:27:06 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:27:07 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:27:11 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C3%AB%D5%EB%D6%AF%C9%C0
+ 2015-04-28 06:27:11 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:27:11 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:27:12 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C5%A3%D7%D0%BF%E3
+ 2015-04-28 06:27:13 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:27:16 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:27:16 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C8%DE%C9%C0
+ 2015-04-28 06:27:19 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B1%B3%D0%C4%B5%F5%B4%F8
+ 2015-04-28 06:27:21 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:27:21 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:27:21 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:27:24 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:27:25 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:27:27 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B3%C4%C9%C0
+ 2015-04-28 06:27:27 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:27:29 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C1%AC%D2%C2%C8%B9
+ 2015-04-28 06:27:31 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:27:32 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D3%A1%BB%A8
+ 2015-04-28 06:27:35 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:27:37 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D4%B2%C1%EC
+ 2015-04-28 06:27:37 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CD%E2%C3%B3
+ 2015-04-28 06:27:38 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:27:38 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:27:39 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:27:41 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:27:42 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:27:45 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C5%AE%CA%BF
+ 2015-04-28 06:27:46 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C5%AE%BF%E3
+ 2015-04-28 06:27:48 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%BF%ED%CB%C9
+ 2015-04-28 06:27:50 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D0%A1%BD%C5%BF%E3
+ 2015-04-28 06:27:51 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:27:52 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:27:52 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:27:53 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:27:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:27:57 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:28:01 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B9%A4%B3%A7
+ 2015-04-28 06:28:01 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:28:05 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D0%C2%BF%EE
+ 2015-04-28 06:28:06 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:28:07 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C6%B4%BD%D3
+ 2015-04-28 06:28:09 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%BA%CF%C4
+ 2015-04-28 06:28:09 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:28:09 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:28:09 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CF%D4%CA%DD
+ 2015-04-28 06:28:11 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:28:12 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:28:14 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:28:16 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C8%E1%C8%ED
+ 2015-04-28 06:28:17 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D5%E6%CB%BF
+ 2015-04-28 06:28:17 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:28:21 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:28:21 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:28:21 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:28:23 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%BE%AB%D6%C2
+ 2015-04-28 06:28:25 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:28:26 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:28:26 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B6%CC%D0%E4
+ 2015-04-28 06:28:29 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:28:31 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:28:32 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CA%E6%CA%CA
+ 2015-04-28 06:28:33 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:28:35 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:28:38 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:28:38 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:28:41 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:28:42 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:28:44 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%BA%AB%B6%BC%D2%C2%C9%E1
+ 2015-04-28 06:28:45 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 6 shops in shopsContainer
+ 2015-04-28 06:28:45 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C5%AE%D7%B0
+ 2015-04-28 06:28:45 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B6%A9%B5%A5
+ 2015-04-28 06:28:48 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 6 shops in shopsContainer
+ 2015-04-28 06:28:48 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C0%D9%CB%BF
+ 2015-04-28 06:28:49 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=T%D0%F4
+ 2015-04-28 06:28:50 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 6 shops in shopsContainer
+ 2015-04-28 06:28:50 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C1%AC%D2%C2%C8%B9
+ 2015-04-28 06:28:51 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 6 shops to operate!
+ 2015-04-28 06:28:52 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:28:55 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C5%A3%D7%D0%BF%E3
+ 2015-04-28 06:28:55 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 13 shops in shopsContainer
+ 2015-04-28 06:28:58 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D5%EB%D6%AF%C9%C0
+ 2015-04-28 06:28:58 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 13 shops in shopsContainer
+ 2015-04-28 06:29:01 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 13 shops in shopsContainer
+ 2015-04-28 06:29:01 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 13 shops to operate!
+ 2015-04-28 06:29:02 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:29:04 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:29:07 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:29:07 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B3%C4%C9%C0
+ 2015-04-28 06:29:10 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:29:12 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 13 shops to operate!
+ 2015-04-28 06:29:13 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:29:15 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D1%A9%B7%C4%C9%C0
+ 2015-04-28 06:29:18 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D0%AC%D7%D3
+ 2015-04-28 06:29:18 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B6%CC%BF%E3
+ 2015-04-28 06:29:20 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D1%A5%D7%D3
+ 2015-04-28 06:29:20 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:29:20 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:29:21 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:29:21 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B0%FC%B0%FC
+ 2015-04-28 06:29:22 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:29:22 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:29:24 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:29:29 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B7%E7%D2%C2
+ 2015-04-28 06:29:30 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CE%C0%D2%C2
+ 2015-04-28 06:29:32 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 9 shops to operate!
+ 2015-04-28 06:29:35 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C5%AE%D7%B0
+ 2015-04-28 06:29:35 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 1 shops in shopsContainer
+ 2015-04-28 06:29:36 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 1 shops in shopsContainer
+ 2015-04-28 06:29:39 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 1 shops in shopsContainer
+ 2015-04-28 06:29:40 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 1 shops in shopsContainer
+ 2015-04-28 06:29:42 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 16 shops to operate!
+ 2015-04-28 06:29:44 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D6%D0%B3%A4%BF%EE
+ 2015-04-28 06:29:45 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:29:48 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D0%DD%CF%D0
+ 2015-04-28 06:29:50 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=t%D0%F4
+ 2015-04-28 06:29:51 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C5%A3%D7%D0%BF%E3
+ 2015-04-28 06:29:51 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:29:51 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:29:52 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:29:52 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C8%DE%C9%C0
+ 2015-04-28 06:29:52 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:29:54 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:29:55 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B3%C4%C9%C0
+ 2015-04-28 06:29:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:30:01 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D0%DE%C9%ED
+ 2015-04-28 06:30:02 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 15 shops to operate!
+ 2015-04-28 06:30:05 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:30:07 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%F3%C2%EB
+ 2015-04-28 06:30:09 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:30:09 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CF%C4%D7%B0
+ 2015-04-28 06:30:11 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:30:12 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:30:13 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:30:14 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:30:19 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 14 shops in shopsContainer
+ 2015-04-28 06:30:22 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 14 shops to operate!
+ 2015-04-28 06:30:23 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:30:23 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%BF%ED%CB%C9
+ 2015-04-28 06:30:24 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C5%AE%CA%BF
+ 2015-04-28 06:30:25 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:30:26 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:30:28 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D0%DD%CF%D0%D4%CB%B6%AF%CC%D7%D7%B0
+ 2015-04-28 06:30:28 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D0%C2%BF%EE
+ 2015-04-28 06:30:28 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C7%E9%C2%C2%D7%B0
+ 2015-04-28 06:30:31 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%BA%D7%B0
+ 2015-04-28 06:30:32 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 3 shops to operate!
+ 2015-04-28 06:30:32 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:30:33 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CF%D4%CA%DD
+ 2015-04-28 06:30:38 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:30:38 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C9%B3%CC%B2
+ 2015-04-28 06:30:38 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:30:38 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:30:40 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:30:42 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 1 shops to operate!
+ 2015-04-28 06:30:44 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:30:46 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%BA%A3%B1%DF
+ 2015-04-28 06:30:51 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:30:52 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:30:53 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:30:54 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:30:54 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:30:57 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B0%D7%C9%AB
+ 2015-04-28 06:30:59 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:31:02 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:31:02 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C5%D6mm
+ 2015-04-28 06:31:04 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:31:05 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%BA%AB%B9%FA
+ 2015-04-28 06:31:06 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%BA%AB%B0%E6
+ 2015-04-28 06:31:06 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%BF%C3%DE
+ 2015-04-28 06:31:07 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:31:08 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:31:09 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C7%EF%D7%B0
+ 2015-04-28 06:31:11 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CE%C0%D2%C2
+ 2015-04-28 06:31:12 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:31:12 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B3%A4%D0%E4
+ 2015-04-28 06:31:13 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:31:17 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:31:20 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CD%E2%C3%B3%D4%AD%B5%A5%C5%AE%D7%B0
+ 2015-04-28 06:31:20 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 1 shops in shopsContainer
+ 2015-04-28 06:31:21 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 1 shops in shopsContainer
+ 2015-04-28 06:31:22 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:44- ShopDBTread get 1 shops to operate!
+ 2015-04-28 06:31:23 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:31:24 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:31:28 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=kg
+ 2015-04-28 06:31:29 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:31:32 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:31:32 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:31:34 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:31:36 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:31:36 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:31:36 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=t%D0%F4%C9%C0
+ 2015-04-28 06:31:40 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=t%D0%F4
+ 2015-04-28 06:31:42 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D0%DD%CF%D0%BF%E3
+ 2015-04-28 06:31:42 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:31:42 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:31:42 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B0%EB%C9%ED%C8%B9
+ 2015-04-28 06:31:44 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C5%A3%D7%D0%BF%E3
+ 2015-04-28 06:31:45 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%F2%B5%D7%BF%E3
+ 2015-04-28 06:31:46 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:31:49 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%F2%B5%D7%CD%E0
+ 2015-04-28 06:31:49 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:31:51 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:31:52 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:31:53 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B6%CC%CD%E2%CC%D7
+ 2015-04-28 06:31:54 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:31:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:31:58 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:32:01 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:32:02 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:32:04 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:32:06 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:32:10 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C8%DE%C9%C0
+ 2015-04-28 06:32:10 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B6%CC%CD%E0
+ 2015-04-28 06:32:11 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:32:12 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:32:13 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C3%C0%CD%C8%CD%E0
+ 2015-04-28 06:32:13 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:32:16 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:32:18 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D1%A9%B7%C4%C9%C0
+ 2015-04-28 06:32:18 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C0%D9%CB%BF%C9%C0
+ 2015-04-28 06:32:18 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B3%C4%C9%C0
+ 2015-04-28 06:32:20 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:32:20 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:32:21 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D0%DE%C9%ED
+ 2015-04-28 06:32:22 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:32:22 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C1%AC%D2%C2%C8%B9
+ 2015-04-28 06:32:24 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:32:25 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:32:27 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D4%B2%C1%EC
+ 2015-04-28 06:32:32 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:32:33 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:32:36 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:32:38 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:32:39 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:32:39 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:32:42 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:32:45 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%BF%ED%CB%C9
+ 2015-04-28 06:32:45 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C5%AE%BF%E3
+ 2015-04-28 06:32:46 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:32:46 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CB%BF%CD%E0
+ 2015-04-28 06:32:49 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:32:51 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B5%AF%C1%A6
+ 2015-04-28 06:32:51 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C6%B4%BD%D3
+ 2015-04-28 06:32:52 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:32:52 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D0%C2%BF%EE
+ 2015-04-28 06:32:52 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:32:52 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:32:53 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:32:54 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%BA%CF%C4
+ 2015-04-28 06:32:56 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%BA%D7%B0
+ 2015-04-28 06:32:58 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:33:02 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:33:03 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CF%D4%CA%DD
+ 2015-04-28 06:33:07 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:33:08 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:33:09 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:33:12 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:33:12 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:33:18 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CB%C9%BD%F4%D1%FC
+ 2015-04-28 06:33:18 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C5%B7%C3%C0
+ 2015-04-28 06:33:19 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C7%EF%BC%BE
+ 2015-04-28 06:33:20 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:33:21 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:33:22 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:33:22 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:33:23 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:33:25 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CE%C0%D2%C2
+ 2015-04-28 06:33:31 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%BF%C9%AB
+ 2015-04-28 06:33:32 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:33:33 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D0%DD%CF%D0
+ 2015-04-28 06:33:34 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:33:36 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:33:36 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:33:36 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D0%DE%C9%ED
+ 2015-04-28 06:33:38 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C5%AE%CA%BD
+ 2015-04-28 06:33:39 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C7%D7%D7%D3%D7%B0
+ 2015-04-28 06:33:42 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:33:51 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:33:51 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D0%DD%CF%D0%D4%CB%B6%AF%CC%D7%D7%B0
+ 2015-04-28 06:33:51 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:33:52 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B0%EB%C9%ED%C8%B9
+ 2015-04-28 06:33:52 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:33:53 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%D0%DD%CF%D0%BF%E3
+ 2015-04-28 06:33:54 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:33:56 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:100- Truncated chunk ( expected size: 32736; actual size: 18214)
+ 2015-04-28 06:33:56 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%B3%A4%D0%E4t%D0%F4&s=180
+ 2015-04-28 06:33:57 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:34:02 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:34:03 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:34:03 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%F2%B5%D7%BF%E3
+ 2015-04-28 06:34:04 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=t%D0%F4
+ 2015-04-28 06:34:05 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:34:08 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:34:10 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:34:11 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C3%AB%D2%C2
+ 2015-04-28 06:34:11 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C8%DE%C9%C0
+ 2015-04-28 06:34:12 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B1%B3%D0%C4%B5%F5%B4%F8
+ 2015-04-28 06:34:12 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:34:13 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B6%CC%CD%E2%CC%D7
+ 2015-04-28 06:34:17 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:34:18 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:34:19 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:34:21 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 2015-04-28 06:34:22 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2015-04-28 06:34:24 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 0 shops in shopsContainer
+ 

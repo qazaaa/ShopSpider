@@ -1,0 +1,712 @@
+2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9460
+ 2015-04-27 19:04:55 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9160
+ 2015-04-27 19:04:55 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2240
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9180
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9480
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2260
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9500
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9200
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2280
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9520
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9220
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2300
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9540
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9240
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2320
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9560
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9260
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2340
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9580
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9280
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2360
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9600
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9300
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2380
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9620
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9320
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2400
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9640
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2420
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9340
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9660
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2440
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9360
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9680
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2460
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9380
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9700
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9400
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2480
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9720
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9420
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2500
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9740
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9440
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9760
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2520
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9460
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9780
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2540
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9480
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9800
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9500
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9820
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2560
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9840
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9520
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2580
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9540
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9860
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9880
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9560
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2600
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9580
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9900
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2620
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9920
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9600
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2640
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9940
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9620
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2660
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9960
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9640
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2680
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=9980
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9660
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=10000
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9680
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2700
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=10020
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9700
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2720
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=10040
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9720
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=10060
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9740
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9760
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2740
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=10080
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2760
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9780
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=10100
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2780
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9800
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2800
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=10120
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9820
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2820
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9840
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=10140
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2840
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9860
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=10160
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2860
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9880
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=10180
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2880
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9900
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=f&s=10200
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2900
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9920
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?q=%C4%D0%D7%B0%BC%D0%BF%CB&app=shopsearch&cat=50000436&brand=29504&cps=1&s=0
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?q=%C4%D0%D7%B0%BC%D0%BF%CB&app=shopsearch&cat=50000436&brand=29504&cps=1&s=20
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2920
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9940
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?q=%C4%D0%D7%B0%BC%D0%BF%CB&app=shopsearch&cat=50000436&brand=29504&cps=1&s=40
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2940
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9960
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2960
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?q=%C4%D0%D7%B0%BC%D0%BF%CB&app=shopsearch&cat=50000436&brand=29504&cps=1&s=60
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=9980
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?q=%C4%D0%D7%B0%BC%D0%BF%CB&app=shopsearch&cat=50000436&brand=29504&cps=1&s=80
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=2980
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=10000
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?q=%C4%D0%D7%B0%BC%D0%BF%CB&app=shopsearch&cat=50000436&brand=29504&cps=1&s=100
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3000
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=10020
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?q=%C4%D0%D7%B0%BC%D0%BF%CB&app=shopsearch&cat=50000436&brand=29504&cps=1&s=120
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3020
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=10040
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?q=%C4%D0%D7%B0%BC%D0%BF%CB&app=shopsearch&cat=50000436&brand=29504&cps=1&s=140
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3040
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=10060
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3060
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=10080
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?q=%C4%D0%D7%B0%BC%D0%BF%CB&app=shopsearch&cat=50000436&brand=29504&cps=1&s=160
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3080
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=10100
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3100
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?q=%C4%D0%D7%B0%BC%D0%BF%CB&app=shopsearch&cat=50000436&brand=29504&cps=1&s=180
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3120
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=10120
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?q=%C4%D0%D7%B0%BC%D0%BF%CB&app=shopsearch&cat=50000436&brand=29504&cps=1&s=200
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3140
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?q=%C4%D0%D7%B0%BC%D0%BF%CB&app=shopsearch&cat=50000436&brand=29504&cps=1&s=220
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=10140
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?q=%C4%D0%D7%B0%BC%D0%BF%CB&app=shopsearch&cat=50000436&brand=29504&cps=1&s=240
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3160
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=10160
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3180
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=10180
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?q=%C4%D0%D7%B0%BC%D0%BF%CB&app=shopsearch&cat=50000436&brand=29504&cps=1&s=260
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3200
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=h&s=10200
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?q=%C4%D0%D7%B0%BC%D0%BF%CB&app=shopsearch&cat=50000436&brand=29504&cps=1&s=280
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3220
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?q=%C4%D0%D7%B0%BC%D0%BF%CB&app=shopsearch&cat=50000436&brand=29504&cps=1&s=300
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3240
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=0
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?q=%C4%D0%D7%B0%BC%D0%BF%CB&app=shopsearch&cat=50000436&brand=29504&cps=1&s=320
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3260
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=20
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?q=%C4%D0%D7%B0%BC%D0%BF%CB&app=shopsearch&cat=50000436&brand=29504&cps=1&s=340
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3280
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=40
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=60
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3300
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?q=%C4%D0%D7%B0%BC%D0%BF%CB&app=shopsearch&cat=50000436&brand=29504&cps=1&s=360
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=80
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?q=%C4%D0%D7%B0%BC%D0%BF%CB&app=shopsearch&cat=50000436&brand=29504&cps=1&s=380
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3320
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=100
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?q=%C4%D0%D7%B0%BC%D0%BF%CB&app=shopsearch&cat=50000436&brand=29504&cps=1&s=400
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3340
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=120
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?q=%C4%D0%D7%B0%BC%D0%BF%CB&app=shopsearch&cat=50000436&brand=29504&cps=1&s=420
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3360
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?q=%C4%D0%D7%B0%BC%D0%BF%CB&app=shopsearch&cat=50000436&brand=29504&cps=1&s=440
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=140
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=0
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3380
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=160
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=20
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3400
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=180
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=40
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3420
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=60
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=200
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=80
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3440
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=220
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=100
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3460
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=240
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=120
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3480
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=260
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=140
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3500
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=160
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=280
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3520
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=180
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=300
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3540
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=200
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=320
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3560
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=220
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3580
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=340
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=240
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=360
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3600
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=260
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=280
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3620
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=380
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=300
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=400
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3640
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=320
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=420
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3660
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=340
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:56 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=440
+ 2015-04-27 19:04:56 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=360
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3680
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=460
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=380
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3700
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=480
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3720
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=400
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=500
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=420
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3740
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3760
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=520
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=440
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3780
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=460
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=540
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3800
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=480
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=560
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3820
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=500
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=580
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3840
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=520
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=600
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3860
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=540
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=620
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3880
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=560
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=640
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3900
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=580
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=660
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3920
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=600
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3940
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=680
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=620
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3960
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=700
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=640
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=3980
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=720
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=660
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=740
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4000
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=680
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4020
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=760
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=700
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4040
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=780
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=720
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4060
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4080
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=800
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=740
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4100
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=760
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=820
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4120
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=780
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=840
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=800
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4140
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=860
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=820
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=880
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4160
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=900
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4180
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=840
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=920
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4200
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=860
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=940
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4220
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=880
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=960
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4240
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=900
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=980
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=920
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4260
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=1000
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=940
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4280
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=1020
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=960
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4300
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=1040
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=980
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4320
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=1060
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=1000
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4340
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=1080
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4360
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=1020
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=1100
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=1040
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4380
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=1120
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4400
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=1060
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=1140
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4420
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=1080
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=1160
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4440
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=1100
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=1180
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4460
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=1120
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=1200
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4480
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=1140
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=1220
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4500
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=1160
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=1240
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4520
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=z&s=1180
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4540
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=1260
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=wm&s=1280
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- s.taobao.com
+ 2015-04-27 19:04:57 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=s&s=4560
+ 

@@ -1,0 +1,634 @@
+2015-04-27 22:19:28 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:29 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 

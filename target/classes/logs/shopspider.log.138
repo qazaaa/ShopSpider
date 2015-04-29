@@ -1,0 +1,634 @@
+2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:48 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:48 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:48 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:48 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:48 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:48 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%C0%D9%CB%BF%C9%C0&s=9460
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%D6%D0%B9%FA%C1%AA%CD%A8%B3%E4%D6%B5%BF%A8&s=9540
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%D6%D0%B9%FA%D2%C6%B6%AF%B3%E4%D6%B5%BF%A8&s=10080
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%B5%E7%D0%C5%BB%B0%B7%D1%B3%E4%D6%B5%BF%A8&s=3360
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%C0%D9%CB%BF%C9%C0&s=9480
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%B5%E7%D0%C5%BB%B0%B7%D1%B3%E4%D6%B5%BF%A8&s=3380
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%D6%D0%B9%FA%D2%C6%B6%AF%B3%E4%D6%B5%BF%A8&s=10100
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%D6%D0%B9%FA%C1%AA%CD%A8%B3%E4%D6%B5%BF%A8&s=9560
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%C0%D9%CB%BF%C9%C0&s=9500
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%B5%E7%D0%C5%BB%B0%B7%D1%B3%E4%D6%B5%BF%A8&s=3400
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%D6%D0%B9%FA%D2%C6%B6%AF%B3%E4%D6%B5%BF%A8&s=10120
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%D6%D0%B9%FA%C1%AA%CD%A8%B3%E4%D6%B5%BF%A8&s=9580
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%C0%D9%CB%BF%C9%C0&s=9520
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%B5%E7%D0%C5%BB%B0%B7%D1%B3%E4%D6%B5%BF%A8&s=3420
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%D6%D0%B9%FA%D2%C6%B6%AF%B3%E4%D6%B5%BF%A8&s=10140
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%C0%D9%CB%BF%C9%C0&s=9540
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%D6%D0%B9%FA%C1%AA%CD%A8%B3%E4%D6%B5%BF%A8&s=9600
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%B5%E7%D0%C5%BB%B0%B7%D1%B3%E4%D6%B5%BF%A8&s=3440
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%D6%D0%B9%FA%D2%C6%B6%AF%B3%E4%D6%B5%BF%A8&s=10160
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%C0%D9%CB%BF%C9%C0&s=9560
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%B5%E7%D0%C5%BB%B0%B7%D1%B3%E4%D6%B5%BF%A8&s=3460
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%D6%D0%B9%FA%D2%C6%B6%AF%B3%E4%D6%B5%BF%A8&s=10180
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%C0%D9%CB%BF%C9%C0&s=9580
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%D6%D0%B9%FA%C1%AA%CD%A8%B3%E4%D6%B5%BF%A8&s=9620
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:49 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%B5%E7%D0%C5%BB%B0%B7%D1%B3%E4%D6%B5%BF%A8&s=3480
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%D6%D0%B9%FA%D2%C6%B6%AF%B3%E4%D6%B5%BF%A8&s=10200
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%D6%D0%B9%FA%C1%AA%CD%A8%B3%E4%D6%B5%BF%A8&s=9640
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=ozl&s=0
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%B5%E7%D0%C5%BB%B0%B7%D1%B3%E4%D6%B5%BF%A8&s=3500
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%D6%D0%B9%FA%C1%AA%CD%A8%B3%E4%D6%B5%BF%A8&s=9660
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=ozl&s=20
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%D6%D0%B9%FA%C1%AA%CD%A8%B3%E4%D6%B5%BF%A8&s=9680
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%B5%E7%D0%C5%BB%B0%B7%D1%B3%E4%D6%B5%BF%A8&s=3520
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%D6%D0%B9%FA%C1%AA%CD%A8%B3%E4%D6%B5%BF%A8&s=9700
+ 2015-04-27 22:19:50 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%B5%E7%D0%C5%BB%B0%B7%D1%B3%E4%D6%B5%BF%A8&s=3540
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=ozl&s=40
+ 2015-04-27 22:19:50 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%C0%D9%CB%BF%C9%C0&s=9600
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%B5%E7%D0%C5%BB%B0%B7%D1%B3%E4%D6%B5%BF%A8&s=3560
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=ozl&s=60
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%B5%E7%D0%C5%BB%B0%B7%D1%B3%E4%D6%B5%BF%A8&s=3580
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%B5%E7%D0%C5%BB%B0%B7%D1%B3%E4%D6%B5%BF%A8&s=3600
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%D6%D0%B9%FA%C1%AA%CD%A8%B3%E4%D6%B5%BF%A8&s=9720
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=ozl&s=80
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%B5%E7%D0%C5%BB%B0%B7%D1%B3%E4%D6%B5%BF%A8&s=3620
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%C0%D9%CB%BF%C9%C0&s=9620
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%B5%E7%D0%C5%BB%B0%B7%D1%B3%E4%D6%B5%BF%A8&s=3640
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=ozl&s=100
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%D6%D0%B9%FA%C1%AA%CD%A8%B3%E4%D6%B5%BF%A8&s=9740
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%B5%E7%D0%C5%BB%B0%B7%D1%B3%E4%D6%B5%BF%A8&s=3660
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-11 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-12 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=ozl&s=120
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-10 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%B5%E7%D0%C5%BB%B0%B7%D1%B3%E4%D6%B5%BF%A8&s=3680
+ 2015-04-27 22:19:50 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:653- I/O exception (java.net.NoRouteToHostException) caught when connecting to the target host: No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-2 org.apache.http.impl.client.DefaultHttpClient:659- Retrying connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:100- No route to host: connect
+ 2015-04-27 22:19:50 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:104- Catch exception when get url :http://s.taobao.com/search?&app=shopsearch&q=%C0%D9%CB%BF%C9%C0&s=9640
+ 

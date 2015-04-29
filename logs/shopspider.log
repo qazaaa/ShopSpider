@@ -1,0 +1,173 @@
+2014-03-07 22:25:17 INFO main org.springframework.context.support.ClassPathXmlApplicationContext:513- Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@17894800: startup date [Fri Mar 07 22:25:17 CST 2014]; root of context hierarchy
+ 2014-03-07 22:25:17 INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader:316- Loading XML bean definitions from class path resource [beans.xml]
+ 2014-03-07 22:25:18 INFO main org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean:713- Building new Hibernate SessionFactory
+ 2014-03-07 22:25:19 INFO main org.springframework.orm.hibernate3.HibernateTransactionManager:418- Using DataSource [org.apache.commons.dbcp.BasicDataSource@67d6b1e2] of Hibernate SessionFactory for HibernateTransactionManager
+ 2014-03-07 22:25:19 INFO main com.shopspider.container.ShopsContainer:36- begin to get shop urls which already exist
+ 2014-03-07 22:25:20 INFO main com.shopspider.main.ProcessControlImpl:53- The process's bContinue is :true
+ 2014-03-07 22:25:20 INFO main com.shopspider.thread.SchedualSaveBDBThread:50- Begin to load data in BDB
+ 2014-03-07 22:25:21 INFO main com.shopspider.thread.SchedualSaveBDBThread:59- Load data in BDB successfully
+ 2014-03-07 22:25:21 INFO pool-1-thread-1 com.shopspider.thread.InitialParseThread:66- InitialPareseThread begin to run!
+ 2014-03-07 22:25:21 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2014-03-07 22:25:22 INFO pool-1-thread-1 com.shopspider.thread.InitialParseThread:370- Get 60 formattedCat2PageUrl
+ 2014-03-07 22:25:24 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B7%E7%D2%C2
+ 2014-03-07 22:25:26 INFO pool-1-thread-15 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C1%AC%D2%C2%C8%B9
+ 2014-03-07 22:25:26 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C2%ED%BC%D0
+ 2014-03-07 22:25:27 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CE%C0%D2%C2
+ 2014-03-07 22:25:28 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C5%AE%D7%B0
+ 2014-03-07 22:25:28 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=n9
+ 2014-03-07 22:25:28 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C3%AB%D5%EB%D6%AF%C9%C0
+ 2014-03-07 22:25:28 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%BA%CF%C4
+ 2014-03-07 22:25:28 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%F2%B5%D7%BF%E3
+ 2014-03-07 22:25:29 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B3%C4%C9%C0
+ 2014-03-07 22:25:33 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 99 shops in shopsContainer
+ 2014-03-07 22:25:36 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 119 shops in shopsContainer
+ 2014-03-07 22:25:37 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 139 shops in shopsContainer
+ 2014-03-07 22:25:38 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 139 shops in shopsContainer
+ 2014-03-07 22:25:38 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 159 shops in shopsContainer
+ 2014-03-07 22:25:44 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 199 shops in shopsContainer
+ 2014-03-07 22:25:46 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 219 shops in shopsContainer
+ 2014-03-07 22:25:48 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 237 shops in shopsContainer
+ 2014-03-07 22:25:49 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 257 shops in shopsContainer
+ 2014-03-07 22:25:49 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 277 shops in shopsContainer
+ 2014-03-07 22:27:36 INFO main org.springframework.context.support.ClassPathXmlApplicationContext:513- Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@17894800: startup date [Fri Mar 07 22:27:36 CST 2014]; root of context hierarchy
+ 2014-03-07 22:27:36 INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader:316- Loading XML bean definitions from class path resource [beans.xml]
+ 2014-03-07 22:27:37 INFO main org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean:713- Building new Hibernate SessionFactory
+ 2014-03-07 22:27:38 INFO main org.springframework.orm.hibernate3.HibernateTransactionManager:418- Using DataSource [org.apache.commons.dbcp.BasicDataSource@4038a1b0] of Hibernate SessionFactory for HibernateTransactionManager
+ 2014-03-07 22:27:38 INFO main com.shopspider.container.ShopsContainer:36- begin to get shop urls which already exist
+ 2014-03-07 22:27:39 INFO main com.shopspider.main.ProcessControlImpl:53- The process's bContinue is :true
+ 2014-03-07 22:27:39 INFO main com.shopspider.thread.SchedualSaveBDBThread:50- Begin to load data in BDB
+ 2014-03-07 22:27:40 INFO main com.shopspider.thread.SchedualSaveBDBThread:59- Load data in BDB successfully
+ 2014-03-07 22:27:40 INFO pool-1-thread-1 com.shopspider.thread.InitialParseThread:66- InitialPareseThread begin to run!
+ 2014-03-07 22:27:40 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2014-03-07 22:48:29 INFO main org.springframework.context.support.FileSystemXmlApplicationContext:513- Refreshing org.springframework.context.support.FileSystemXmlApplicationContext@56701230: startup date [Fri Mar 07 22:48:29 CST 2014]; root of context hierarchy
+ 2014-03-07 22:48:29 INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader:316- Loading XML bean definitions from file [E:\work\workspace\ShopSpider\target\test-classes\beans.xml]
+ 2014-03-07 22:48:31 INFO main org.springframework.context.support.FileSystemXmlApplicationContext:513- Refreshing org.springframework.context.support.FileSystemXmlApplicationContext@55ffb930: startup date [Fri Mar 07 22:48:31 CST 2014]; root of context hierarchy
+ 2014-03-07 22:48:31 INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader:316- Loading XML bean definitions from file [E:\work\workspace\ShopSpider\target\test-classes\beans.xml]
+ 2014-03-07 22:49:28 INFO main org.springframework.context.support.FileSystemXmlApplicationContext:513- Refreshing org.springframework.context.support.FileSystemXmlApplicationContext@57ba39a5: startup date [Fri Mar 07 22:49:28 CST 2014]; root of context hierarchy
+ 2014-03-07 22:49:28 INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader:316- Loading XML bean definitions from file [E:\work\workspace\ShopSpider\target\test-classes\beans.xml]
+ 2014-03-07 22:49:29 INFO main org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean:713- Building new Hibernate SessionFactory
+ 2014-03-07 22:49:30 INFO main org.springframework.orm.hibernate3.HibernateTransactionManager:418- Using DataSource [org.apache.commons.dbcp.BasicDataSource@37c8f034] of Hibernate SessionFactory for HibernateTransactionManager
+ 2014-03-07 22:49:31 INFO main com.shopspider.container.ShopsContainer:36- begin to get shop urls which already exist
+ 2014-03-07 22:49:32 INFO main org.springframework.context.support.FileSystemXmlApplicationContext:513- Refreshing org.springframework.context.support.FileSystemXmlApplicationContext@6d3c6012: startup date [Fri Mar 07 22:49:32 CST 2014]; root of context hierarchy
+ 2014-03-07 22:49:32 INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader:316- Loading XML bean definitions from file [E:\work\workspace\ShopSpider\target\test-classes\beans.xml]
+ 2014-03-07 22:49:32 INFO main org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean:713- Building new Hibernate SessionFactory
+ 2014-03-07 22:49:32 INFO main org.springframework.orm.hibernate3.HibernateTransactionManager:418- Using DataSource [org.apache.commons.dbcp.BasicDataSource@2e8da86e] of Hibernate SessionFactory for HibernateTransactionManager
+ 2014-03-07 22:49:32 INFO main com.shopspider.container.ShopsContainer:36- begin to get shop urls which already exist
+ 2014-03-07 22:51:34 INFO main org.springframework.context.support.FileSystemXmlApplicationContext:513- Refreshing org.springframework.context.support.FileSystemXmlApplicationContext@4a9fed16: startup date [Fri Mar 07 22:51:34 CST 2014]; root of context hierarchy
+ 2014-03-07 22:51:34 INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader:316- Loading XML bean definitions from file [E:\work\workspace\ShopSpider\target\test-classes\beans.xml]
+ 2014-03-07 22:51:36 INFO main org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean:713- Building new Hibernate SessionFactory
+ 2014-03-07 22:51:37 INFO main org.springframework.orm.hibernate3.HibernateTransactionManager:418- Using DataSource [org.apache.commons.dbcp.BasicDataSource@1d64649c] of Hibernate SessionFactory for HibernateTransactionManager
+ 2014-03-07 22:51:37 INFO main com.shopspider.container.ShopsContainer:36- begin to get shop urls which already exist
+ 2014-03-07 23:13:45 INFO main org.springframework.context.support.FileSystemXmlApplicationContext:513- Refreshing org.springframework.context.support.FileSystemXmlApplicationContext@4a9fed16: startup date [Fri Mar 07 23:13:45 CST 2014]; root of context hierarchy
+ 2014-03-07 23:13:45 INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader:316- Loading XML bean definitions from file [E:\work\workspace\ShopSpider\target\test-classes\beans.xml]
+ 2014-03-07 23:13:47 INFO main org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean:713- Building new Hibernate SessionFactory
+ 2014-03-07 23:13:49 INFO main org.springframework.orm.hibernate3.HibernateTransactionManager:418- Using DataSource [org.apache.commons.dbcp.BasicDataSource@7ce28a19] of Hibernate SessionFactory for HibernateTransactionManager
+ 2014-03-07 23:13:49 INFO main com.shopspider.container.ShopsContainer:36- begin to get shop urls which already exist
+ 2014-03-07 23:22:39 INFO main org.springframework.context.support.FileSystemXmlApplicationContext:513- Refreshing org.springframework.context.support.FileSystemXmlApplicationContext@6d2c05d: startup date [Fri Mar 07 23:22:39 CST 2014]; root of context hierarchy
+ 2014-03-07 23:22:39 INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader:316- Loading XML bean definitions from file [E:\work\workspace\ShopSpider\target\test-classes\beans.xml]
+ 2014-03-07 23:22:41 INFO main org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean:713- Building new Hibernate SessionFactory
+ 2014-03-07 23:22:42 INFO main org.springframework.orm.hibernate3.HibernateTransactionManager:418- Using DataSource [org.apache.commons.dbcp.BasicDataSource@37c8f034] of Hibernate SessionFactory for HibernateTransactionManager
+ 2014-03-07 23:22:42 INFO main com.shopspider.container.ShopsContainer:36- begin to get shop urls which already exist
+ 2014-03-07 23:25:34 INFO main org.springframework.context.support.FileSystemXmlApplicationContext:513- Refreshing org.springframework.context.support.FileSystemXmlApplicationContext@53b2df13: startup date [Fri Mar 07 23:25:34 CST 2014]; root of context hierarchy
+ 2014-03-07 23:25:34 INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader:316- Loading XML bean definitions from file [E:\work\workspace\ShopSpider\target\test-classes\beans.xml]
+ 2014-03-07 23:25:36 INFO main org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean:713- Building new Hibernate SessionFactory
+ 2014-03-07 23:25:37 INFO main org.springframework.orm.hibernate3.HibernateTransactionManager:418- Using DataSource [org.apache.commons.dbcp.BasicDataSource@422d228c] of Hibernate SessionFactory for HibernateTransactionManager
+ 2014-03-07 23:25:37 INFO main com.shopspider.container.ShopsContainer:36- begin to get shop urls which already exist
+ 2014-03-07 23:27:01 INFO main org.springframework.context.support.FileSystemXmlApplicationContext:513- Refreshing org.springframework.context.support.FileSystemXmlApplicationContext@53b2df13: startup date [Fri Mar 07 23:27:01 CST 2014]; root of context hierarchy
+ 2014-03-07 23:27:01 INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader:316- Loading XML bean definitions from file [E:\work\workspace\ShopSpider\target\test-classes\beans.xml]
+ 2014-03-07 23:27:03 INFO main org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean:713- Building new Hibernate SessionFactory
+ 2014-03-07 23:27:04 INFO main org.springframework.orm.hibernate3.HibernateTransactionManager:418- Using DataSource [org.apache.commons.dbcp.BasicDataSource@422d228c] of Hibernate SessionFactory for HibernateTransactionManager
+ 2014-03-07 23:27:04 INFO main com.shopspider.container.ShopsContainer:36- begin to get shop urls which already exist
+ 2014-03-07 23:32:15 INFO main org.springframework.context.support.ClassPathXmlApplicationContext:513- Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6ab8a28b: startup date [Fri Mar 07 23:32:15 CST 2014]; root of context hierarchy
+ 2014-03-07 23:32:15 INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader:316- Loading XML bean definitions from class path resource [beans.xml]
+ 2014-03-07 23:32:16 INFO main org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean:713- Building new Hibernate SessionFactory
+ 2014-03-07 23:32:17 INFO main org.springframework.orm.hibernate3.HibernateTransactionManager:418- Using DataSource [org.apache.commons.dbcp.BasicDataSource@6c9b2b78] of Hibernate SessionFactory for HibernateTransactionManager
+ 2014-03-07 23:32:17 INFO main com.shopspider.container.ShopsContainer:36- begin to get shop urls which already exist
+ 2014-03-07 23:32:18 INFO main com.shopspider.main.ProcessControlImpl:54- The process's bContinue is :true
+ 2014-03-07 23:32:18 INFO main com.shopspider.thread.SchedualSaveBDBThread:50- Begin to load data in BDB
+ 2014-03-07 23:32:19 INFO main com.shopspider.thread.SchedualSaveBDBThread:59- Load data in BDB successfully
+ 2014-03-07 23:32:19 INFO pool-1-thread-1 com.shopspider.thread.InitialParseThread:66- InitialPareseThread begin to run!
+ 2014-03-07 23:32:19 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2014-03-07 23:32:20 INFO pool-1-thread-1 com.shopspider.thread.InitialParseThread:370- Get 60 formattedCat2PageUrl
+ 2014-03-07 23:32:22 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C2%ED%BC%D0
+ 2014-03-07 23:32:22 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B7%E7%D2%C2
+ 2014-03-07 23:32:23 INFO pool-1-thread-15 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=n9
+ 2014-03-07 23:32:23 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C3%AB%D5%EB%D6%AF%C9%C0
+ 2014-03-07 23:32:23 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C1%AC%D2%C2%C8%B9
+ 2014-03-07 23:32:23 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%F2%B5%D7%BF%E3
+ 2014-03-07 23:32:23 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C5%AE%D7%B0
+ 2014-03-07 23:32:23 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B3%C4%C9%C0
+ 2014-03-07 23:32:24 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CE%C0%D2%C2
+ 2014-03-07 23:32:25 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%BA%CF%C4
+ 2014-03-07 23:39:21 INFO com.shopspider.main.FetchShops.main() org.springframework.context.support.ClassPathXmlApplicationContext:513- Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@32b97305: startup date [Fri Mar 07 23:39:21 CST 2014]; root of context hierarchy
+ 2014-03-07 23:39:21 INFO com.shopspider.main.FetchShops.main() org.springframework.beans.factory.xml.XmlBeanDefinitionReader:316- Loading XML bean definitions from class path resource [beans.xml]
+ 2014-03-07 23:39:23 INFO com.shopspider.main.FetchShops.main() org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean:713- Building new Hibernate SessionFactory
+ 2014-03-07 23:39:25 INFO com.shopspider.main.FetchShops.main() org.springframework.orm.hibernate3.HibernateTransactionManager:418- Using DataSource [org.apache.commons.dbcp.BasicDataSource@2672841] of Hibernate SessionFactory for HibernateTransactionManager
+ 2014-03-07 23:39:25 INFO com.shopspider.main.FetchShops.main() com.shopspider.container.ShopsContainer:36- begin to get shop urls which already exist
+ 2014-03-07 23:39:26 INFO com.shopspider.main.FetchShops.main() com.shopspider.main.ProcessControlImpl:54- The process's bContinue is :true
+ 2014-03-07 23:39:26 INFO com.shopspider.main.FetchShops.main() com.shopspider.thread.SchedualSaveBDBThread:50- Begin to load data in BDB
+ 2014-03-07 23:39:27 INFO com.shopspider.main.FetchShops.main() com.shopspider.thread.SchedualSaveBDBThread:59- Load data in BDB successfully
+ 2014-03-07 23:39:27 INFO pool-3-thread-1 com.shopspider.thread.InitialParseThread:66- InitialPareseThread begin to run!
+ 2014-03-07 23:39:27 INFO pool-3-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2014-03-07 23:39:27 INFO pool-3-thread-1 com.shopspider.thread.InitialParseThread:370- Get 60 formattedCat2PageUrl
+ 2014-03-07 23:39:29 INFO pool-3-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C3%AB%D5%EB%D6%AF%C9%C0
+ 2014-03-07 23:39:29 INFO pool-3-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C1%AC%D2%C2%C8%B9
+ 2014-03-07 23:39:30 INFO pool-3-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C2%ED%BC%D0
+ 2014-03-07 23:39:30 INFO pool-3-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C5%AE%D7%B0
+ 2014-03-07 23:39:30 INFO pool-3-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%BA%CF%C4
+ 2014-03-07 23:39:30 INFO pool-3-thread-15 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B3%C4%C9%C0
+ 2014-03-07 23:39:30 INFO pool-3-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B7%E7%D2%C2
+ 2014-03-07 23:39:31 INFO pool-3-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%F2%B5%D7%BF%E3
+ 2014-03-07 23:39:32 INFO pool-3-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=n9
+ 2014-03-07 23:39:32 INFO pool-3-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CE%C0%D2%C2
+ 2014-03-07 23:39:38 INFO pool-3-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 99 shops in shopsContainer
+ 2014-03-07 23:39:41 INFO pool-3-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 119 shops in shopsContainer
+ 2014-03-07 23:39:41 INFO pool-3-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 119 shops in shopsContainer
+ 2014-03-07 23:39:41 INFO pool-3-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 119 shops in shopsContainer
+ 2014-03-07 23:39:42 INFO pool-3-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 179 shops in shopsContainer
+ 2014-03-07 23:48:34 INFO com.shopspider.main.FetchShops.main() org.springframework.context.support.ClassPathXmlApplicationContext:513- Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@77a2473e: startup date [Fri Mar 07 23:48:33 CST 2014]; root of context hierarchy
+ 2014-03-07 23:48:34 INFO com.shopspider.main.FetchShops.main() org.springframework.beans.factory.xml.XmlBeanDefinitionReader:316- Loading XML bean definitions from class path resource [beans.xml]
+ 2014-03-07 23:48:36 INFO com.shopspider.main.FetchShops.main() org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean:713- Building new Hibernate SessionFactory
+ 2014-03-07 23:48:37 INFO com.shopspider.main.FetchShops.main() org.springframework.orm.hibernate3.HibernateTransactionManager:418- Using DataSource [org.apache.commons.dbcp.BasicDataSource@52cf58ad] of Hibernate SessionFactory for HibernateTransactionManager
+ 2014-03-07 23:48:37 INFO com.shopspider.main.FetchShops.main() com.shopspider.container.ShopsContainer:36- begin to get shop urls which already exist
+ 2014-03-07 23:48:38 INFO com.shopspider.main.FetchShops.main() com.shopspider.main.ProcessControlImpl:54- The process's bContinue is :true
+ 2014-03-07 23:48:38 INFO com.shopspider.main.FetchShops.main() com.shopspider.thread.SchedualSaveBDBThread:50- Begin to load data in BDB
+ 2014-03-07 23:48:39 INFO com.shopspider.main.FetchShops.main() com.shopspider.thread.SchedualSaveBDBThread:59- Load data in BDB successfully
+ 2014-03-07 23:48:39 INFO pool-1-thread-1 com.shopspider.thread.InitialParseThread:66- InitialPareseThread begin to run!
+ 2014-03-07 23:48:39 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2014-03-07 23:48:39 INFO pool-1-thread-1 com.shopspider.thread.InitialParseThread:370- Get 60 formattedCat2PageUrl
+ 2014-03-07 23:48:41 INFO pool-1-thread-7 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C5%AE%D7%B0
+ 2014-03-07 23:48:42 INFO pool-1-thread-11 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%CE%C0%D2%C2
+ 2014-03-07 23:48:42 INFO pool-1-thread-14 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C3%AB%D5%EB%D6%AF%C9%C0
+ 2014-03-07 23:48:42 INFO pool-1-thread-16 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%F2%B5%D7%BF%E3
+ 2014-03-07 23:48:43 INFO pool-1-thread-10 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=n9
+ 2014-03-07 23:48:43 INFO pool-1-thread-13 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B7%E7%D2%C2
+ 2014-03-07 23:48:45 INFO pool-1-thread-15 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C1%AC%D2%C2%C8%B9
+ 2014-03-07 23:48:45 INFO pool-1-thread-12 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B4%BA%CF%C4
+ 2014-03-07 23:48:45 INFO pool-1-thread-8 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%B3%C4%C9%C0
+ 2014-03-07 23:48:46 INFO pool-1-thread-9 com.shopspider.thread.ParseListByKeyWordThread:81- Add key word page :http://s.taobao.com/search?&app=shopsearch&q=%C2%ED%BC%D0
+ 2014-03-07 23:48:51 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 81 shops in shopsContainer
+ 2014-03-07 23:48:51 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 81 shops in shopsContainer
+ 2014-03-07 23:48:52 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 118 shops in shopsContainer
+ 2014-03-07 23:48:53 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 118 shops in shopsContainer
+ 2014-03-07 23:48:53 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 138 shops in shopsContainer
+ 2014-03-07 23:49:01 INFO pool-1-thread-3 com.shopspider.thread.ParseShopListPageThread:133- There are/is 169 shops in shopsContainer
+ 2014-03-07 23:49:01 INFO pool-1-thread-2 com.shopspider.thread.ParseShopListPageThread:133- There are/is 169 shops in shopsContainer
+ 2014-03-07 23:49:03 INFO pool-1-thread-4 com.shopspider.thread.ParseShopListPageThread:133- There are/is 205 shops in shopsContainer
+ 2014-03-07 23:49:03 INFO pool-1-thread-5 com.shopspider.thread.ParseShopListPageThread:133- There are/is 205 shops in shopsContainer
+ 2014-03-07 23:49:03 INFO pool-1-thread-6 com.shopspider.thread.ParseShopListPageThread:133- There are/is 205 shops in shopsContainer
+ 2014-03-07 23:51:18 INFO main org.springframework.context.support.ClassPathXmlApplicationContext:513- Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3eb14efc: startup date [Fri Mar 07 23:51:18 CST 2014]; root of context hierarchy
+ 2014-03-07 23:51:18 INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader:316- Loading XML bean definitions from class path resource [beans.xml]
+ 2014-03-07 23:51:20 INFO main org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean:713- Building new Hibernate SessionFactory
+ 2014-03-07 23:51:21 INFO main org.springframework.orm.hibernate3.HibernateTransactionManager:418- Using DataSource [org.apache.commons.dbcp.BasicDataSource@2b91887e] of Hibernate SessionFactory for HibernateTransactionManager
+ 2014-03-07 23:51:22 INFO main com.shopspider.container.ShopsContainer:36- begin to get shop urls which already exist
+ 2014-03-07 23:51:23 INFO main com.shopspider.main.ProcessControlImpl:48- The process's bContinue is :false
+ 2014-03-07 23:51:23 INFO pool-1-thread-1 com.shopspider.thread.InitialParseThread:66- InitialPareseThread begin to run!
+ 2014-03-07 23:51:23 INFO pool-1-thread-17 com.shopspider.thread.ShopDBThread:50- ShopDBTread get no shops to operate!
+ 2014-03-07 23:51:24 INFO pool-1-thread-1 com.shopspider.thread.InitialParseThread:370- Get 60 formattedCat2PageUrl
+ 2014-03-07 23:51:45 INFO main org.springframework.context.support.ClassPathXmlApplicationContext:513- Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3eb14efc: startup date [Fri Mar 07 23:51:45 CST 2014]; root of context hierarchy
+ 2014-03-07 23:51:45 INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader:316- Loading XML bean definitions from class path resource [beans.xml]
+ 2014-03-07 23:51:47 INFO main org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean:713- Building new Hibernate SessionFactory
+ 2014-03-07 23:51:48 INFO main org.springframework.orm.hibernate3.HibernateTransactionManager:418- Using DataSource [org.apache.commons.dbcp.BasicDataSource@6c9b2b78] of Hibernate SessionFactory for HibernateTransactionManager
+ 2014-03-07 23:51:48 INFO main com.shopspider.container.ShopsContainer:36- begin to get shop urls which already exist
+ 
