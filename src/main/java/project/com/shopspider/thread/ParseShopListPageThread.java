@@ -118,7 +118,7 @@ public class ParseShopListPageThread implements Runnable
 						String business = shopBean.getBusiness();
 						if (business != null && !business.trim().equals(""))
 						{
-							keyWordContainer.addKeyWords(business.trim());
+							keyWordContainer.addKeyWords(business.trim(),pageColletion.getCatName());
 						}
 					}
 

@@ -12,7 +12,7 @@ public class PageColletion implements Serializable
 {
 	private static final long serialVersionUID = -6139793135331543857L;
 
-	public PageColletion(String pageUrlPattern, int totalCount, int startIndex)
+	public PageColletion(String pageUrlPattern, int totalCount, int startIndex,String catName)
 	{
 		this.pageUrlPattern = pageUrlPattern;
 		if (totalCount < Consts.MAX_INDEX_PER_COLLECTIONPAGE)
@@ -25,6 +25,12 @@ public class PageColletion implements Serializable
 
 		this.currentIndex = startIndex;
 		this.startIndex = startIndex;
+		this.catName = catName;
+	}
+	
+	public String getCatName()
+	{
+		return this.catName;
 	}
 
 	public synchronized boolean hasNextPage()
@@ -47,5 +53,6 @@ public class PageColletion implements Serializable
 	private int currentIndex = 0;
 	private int startIndex = 0;
 	private String pageUrlPattern = null;
+	private String catName = null;
 
 }

@@ -16,6 +16,7 @@ import org.springframework.stereotype.Component;
 import com.shopspider.BDB.BDBService;
 import com.shopspider.BDB.SchedualSave;
 import com.shopspider.bean.PageColletion;
+import com.shopspider.bean.UrlItem;
 import com.shopspider.common.Consts;
 import com.shopspider.container.PageCollectionsContainer;
 import com.shopspider.http.HttpService;
@@ -34,7 +35,7 @@ public class InitialParseThread implements Runnable, SchedualSave
 	@Resource
 	RegexService regexService;
 
-	private Set<String> urlsToParse = new LinkedHashSet<String>();
+	private Set<UrlItem> urlsToParse = new LinkedHashSet<UrlItem>();
 
 	private boolean bContinue = false;
 
@@ -71,7 +72,7 @@ public class InitialParseThread implements Runnable, SchedualSave
 
 		if (!bContinue || urlsToParse == null || urlsToParse.size() == 0)
 		{
-			List<String> formattedCat2PageUrls = extractCat2Urls("http://s.taobao.com/search?app=shopsearch");
+			List<UrlItem> formattedCat2PageUrls = extractCat2Urls("http://s.taobao.com/search?app=shopsearch");
 			if (formattedCat2PageUrls == null)
 			{
 				System.exit(0);
@@ -81,7 +82,7 @@ public class InitialParseThread implements Runnable, SchedualSave
 
 		while (urlsToParse.size() > 0 && !Thread.interrupted())
 		{
-			List<String> operatedUrls = new ArrayList<String>(
+			List<UrlItem> operatedUrls = new ArrayList<UrlItem>(
 			        urlsToParse.size());
 			operatedUrls.addAll(urlsToParse);
 			try
@@ -98,35 +99,39 @@ public class InitialParseThread implements Runnable, SchedualSave
 
 	}
 
-	private void extractPageColletionFromUrls(List<String> operatedUrls)
+	private void extractPageColletionFromUrls(List<UrlItem> operatedUrls)
 	        throws InterruptedException
 	{
 		if (operatedUrls == null || operatedUrls.size() == 0)
 		{
 			return;
 		}
-		Iterator<String> urlIter = operatedUrls.iterator();
+		Iterator<UrlItem> urlIter = operatedUrls.iterator();
 		while (urlIter.hasNext())
 		{
-			String formattedPageUrl = urlIter.next();
+			UrlItem url = urlIter.next();
 			try
 			{
-				extractPageColletionFromUrl(formattedPageUrl);
+				extractPageColletionFromUrl(url);
 			} catch (Exception e)
 			{
 				continue;
 			}
-			Boolean result = urlsToParse.remove(formattedPageUrl);
-			logger.debug("Remove " + formattedPageUrl
+			Boolean result = urlsToParse.remove(url);
+			logger.debug("Remove " + url.getUrl()
 			        + " from cat2UrlsToParse :" + result);
 			Thread.sleep(Consts.SLEEP_MILLISECOND_PER_REQUEST);
 		}
 	}
 
-	private void extractPageColletionFromUrl(String formattedPageUrl)
+	private void extractPageColletionFromUrl(UrlItem formattedPageUrl)
 	        throws ClientProtocolException, IOException, InterruptedException
 	{
-		String content = httpService.getContent(formattedPageUrl);
+		if (formattedPageUrl.getUrl() == null || formattedPageUrl.getUrl().equals(""))
+		{
+			return;
+		}
+		String content = httpService.getContent(formattedPageUrl.getUrl());
 		String totalCountStr = parseShopTotalCount(content);
 		if (totalCountStr == null || totalCountStr.equals(""))
 		{
@@ -136,7 +141,7 @@ public class InitialParseThread implements Runnable, SchedualSave
 		}
 		int totalCount = Integer.parseInt(totalCountStr);
 		PageColletion pageColletionToParse = new PageColletion(
-		        formattedPageUrl.replaceAll("#.*", "") + "&s=", totalCount, 0);
+				formattedPageUrl.getUrl().replaceAll("#.*", "") + "&s=", totalCount, 0,formattedPageUrl.getCatName());
 		pageCollectionsContainer.addPageColletion(pageColletionToParse);
 		if (totalCount < Consts.MAX_SHOP_COUNT_PER_COLLECTION)
 		{
@@ -144,34 +149,34 @@ public class InitialParseThread implements Runnable, SchedualSave
 		}
 
 		// 如果当前页面的“类目”选项已经选中或者没有“类目”选项，会返回一个List，List中只有传入的formattedPageUrl
-		List<String> formattedCategoryUrls = parseCategory(formattedPageUrl,
-		        content);
-		if (formattedCategoryUrls == null)
-		{
-			return;
-		}
-
-		for (String formattedCategoryUrl : formattedCategoryUrls)
-		{
-			parseBrandPage(formattedCategoryUrl);
-
-		}
+//		List<UrlItem> formattedCategoryUrls = parseCategory(formattedPageUrl,
+//		        content);
+//		if (formattedCategoryUrls == null)
+//		{
+//			return;
+//		}
+//
+//		for (UrlItem formattedCategoryUrl : formattedCategoryUrls)
+//		{
+//			parseBrandPage(formattedCategoryUrl);
+//
+//		}
 	}
 
-	private void parseBrandPage(String url) throws InterruptedException
+	private void parseBrandPage(UrlItem url) throws InterruptedException
 	{
 		try
 		{
-			String content = httpService.getContent(url);
+			String content = httpService.getContent(url.getUrl());
 			String totalCountStr = parseShopTotalCount(content);
 			if (totalCountStr == null || totalCountStr.equals(""))
 			{
-				logger.warn("Cant't parse total shop count in page:" + url);
+				logger.warn("Cant't parse total shop count in page:" + url.getUrl());
 				return;
 			}
 			int totalCount = Integer.parseInt(totalCountStr);
-			pageCollectionsContainer.addPageColletion(new PageColletion(url
-			        .replaceAll("#.*", "") + "&s=", totalCount, 0));
+			pageCollectionsContainer.addPageColletion(new PageColletion(url.getUrl()
+			        .replaceAll("#.*", "") + "&s=", totalCount, 0,url.getCatName()));
 			if (totalCount < Consts.MAX_SHOP_COUNT_PER_COLLECTION)
 			{
 				return;
@@ -191,7 +196,7 @@ public class InitialParseThread implements Runnable, SchedualSave
 			        brandContent, " <a[^>]*+class=\"selected\"");
 			if (selectedItem != null && selectedItem.size() > 0)
 			{
-				logger.info("The brand item is selected in page" + url);
+				logger.info("The brand item is selected in page" + url.getUrl());
 				return;
 			}
 			List<String> brandUrls = regexService.getSingleGroupItems(
@@ -202,11 +207,11 @@ public class InitialParseThread implements Runnable, SchedualSave
 				        + content);
 				return;
 			}
-			String host = regexService.getSingleGroupItem(url,
+			String host = regexService.getSingleGroupItem(url.getUrl(),
 			        "(http://[^/]++)");
 			if (host == null || host == null)
 			{
-				logger.error("Can't parse host of page:" + url);
+				logger.error("Can't parse host of page:" + url.getUrl());
 				return;
 			}
 			for (String brandUrl : brandUrls)
@@ -235,7 +240,7 @@ public class InitialParseThread implements Runnable, SchedualSave
 					pageCollectionsContainer
 					        .addPageColletion(new PageColletion(formattedUrl
 					                .replaceAll("#.*", "") + "&s=",
-					                brandPageTotalCount, 0));
+					                brandPageTotalCount, 0,url.getCatName()));
 				} catch (Exception e)
 				{
 					logger.warn("catch exception when handle :" + formattedUrl);
@@ -248,12 +253,12 @@ public class InitialParseThread implements Runnable, SchedualSave
 
 		} catch (InterruptedException e)
 		{
-			logger.warn("Catch InterruptedException when handle :" + url);
+			logger.warn("Catch InterruptedException when handle :" + url.getUrl());
 			throw e;
 
 		} catch (Exception e)
 		{
-			logger.warn("catch exception when handle :" + url);
+			logger.warn("catch exception when handle :" + url.getUrl());
 			logger.error(e.getMessage());
 		}
 
@@ -266,7 +271,12 @@ public class InitialParseThread implements Runnable, SchedualSave
 	 * @param content
 	 * @return
 	 */
-	private List<String> parseCategory(String formattedPageUrl, String content)
+	/**
+	 * @param cat
+	 * @param content
+	 * @return
+	 */
+	private List<UrlItem> parseCategory(UrlItem cat, String content)
 	{
 		String categoryUlContent = regexService
 		        .getSingleGroupItem(content,
@@ -274,18 +284,18 @@ public class InitialParseThread implements Runnable, SchedualSave
 		if (categoryUlContent == null || categoryUlContent.equals(""))
 		{
 			logger.info("Can't parse categoryUlContent or page has no category item from page:"
-			        + formattedPageUrl);
-			List<String> resultList = new ArrayList<String>();
-			resultList.add(formattedPageUrl);
+			        + cat.getUrl());
+			List<UrlItem> resultList = new ArrayList<UrlItem>();
+			resultList.add(cat);
 			return resultList;
 		}
 		List<String> selectedCategorys = regexService.getSingleGroupItems(
 		        categoryUlContent, "<a[^>]*?class=\"selected\"");
 		if (selectedCategorys != null && selectedCategorys.size() > 0)
 		{
-			logger.info("Category is selected in page:" + formattedPageUrl);
-			List<String> resultList = new ArrayList<String>();
-			resultList.add(formattedPageUrl);
+			logger.info("Category is selected in page:" + cat.getUrl());
+			List<UrlItem> resultList = new ArrayList<UrlItem>();
+			resultList.add(cat);
 			return resultList;
 		}
 		List<String> categoryUrls = regexService.getSingleGroupItems(
@@ -293,17 +303,17 @@ public class InitialParseThread implements Runnable, SchedualSave
 		if (categoryUrls == null || categoryUrls.size() == 0)
 		{
 			logger.error("Can't parse categoryUrls  from categoryUlContent in page:"
-			        + formattedPageUrl);
+			        + cat.getUrl());
 			return null;
 		}
-		String host = regexService.getSingleGroupItem(formattedPageUrl,
+		String host = regexService.getSingleGroupItem(cat.getUrl(),
 		        "(http://[^/]++)");
 		if (host == null || host == null)
 		{
-			logger.error("Can't parse host of page:" + formattedPageUrl);
+			logger.error("Can't parse host of page:" + cat.getUrl());
 			return null;
 		}
-		List<String> formattedCategoryUrls = new ArrayList<String>(
+		List<UrlItem> formattedCategoryUrls = new ArrayList<UrlItem>(
 		        categoryUrls.size());
 		for (String url : categoryUrls)
 		{
@@ -314,7 +324,10 @@ public class InitialParseThread implements Runnable, SchedualSave
 				continue;
 
 			}
-			formattedCategoryUrls.add(formattedUrl);
+			UrlItem subcat = new UrlItem();
+			subcat.setCatName(cat.getCatName());
+			subcat.setUrl(formattedUrl);
+			formattedCategoryUrls.add(subcat);
 		}
 		return formattedCategoryUrls;
 
@@ -322,12 +335,14 @@ public class InitialParseThread implements Runnable, SchedualSave
 
 	private String parseShopTotalCount(String content)
 	{
+//		String totalCountStr = regexService.getSingleGroupItem(content,
+//		        "<span class=\"shop-count\">\\s*找到相关店铺\\s*<b>(\\d++)</b>");
 		String totalCountStr = regexService.getSingleGroupItem(content,
-		        "<span class=\"shop-count\">\\s*找到相关店铺\\s*<b>(\\d++)</b>");
+		        "<span class=\"shop-count\">[\\s\\S]*?<b>\\s*?(\\d++)\\s*?</b>");
 		return totalCountStr;
 	}
 
-	private List<String> extractCat2Urls(String searchIndexUrl)
+	private List<UrlItem> extractCat2Urls(String searchIndexUrl)
 	{
 		String searchIndexContent = null;
 		try
@@ -339,23 +354,7 @@ public class InitialParseThread implements Runnable, SchedualSave
 			logger.error(e.getStackTrace());
 			return null;
 		}
-
-		List<String> subSearchPages = regexService.getSingleGroupItems(
-		        searchIndexContent,
-		        "<ul class=\"level-two-cat-list\">([\\s\\S]*?)</ul>");
-		if (subSearchPages == null || subSearchPages.size() == 0)
-		{
-			logger.error("Can't get subSearchPages, and system exits");
-			return null;
-		}
-		List<String> cat2PageUrls = new ArrayList<String>();
-		for (String subSearchPage : subSearchPages)
-		{
-			cat2PageUrls.addAll(regexService.getSingleGroupItems(subSearchPage,
-			        "<li><a[^>]*?href=\"([^\"]++)\""));
-
-		}
-		List<String> formattedCat2PageUrls = new ArrayList<String>();
+		
 		String host = regexService.getSingleGroupItem(searchIndexUrl,
 		        "(http://[^/]++)");
 		if (host == null || host.equals(""))
@@ -363,13 +362,48 @@ public class InitialParseThread implements Runnable, SchedualSave
 			logger.error("Can't get host, and system exits");
 			return null;
 		}
-		for (String url : cat2PageUrls)
+		
+		List<String> mainCats = regexService.getSingleGroupItems(
+		        searchIndexContent,
+		        "(<a class=\"level-one-cat\"[\\s\\S]*?)</ul>");
+		if (mainCats == null || mainCats.size() == 0)
 		{
-			formattedCat2PageUrls.add(formattedPageUrl(host, url));
+			logger.error("Can't get main cats");
+			return null;
 		}
-		logger.info("Get " + formattedCat2PageUrls.size()
+		
+		List<UrlItem> cats = new ArrayList<UrlItem>();
+
+		for (String catStr : mainCats)
+		{
+			String catName = regexService.getSingleGroupItem(
+					catStr,
+			        "<a class=\"level-one-cat\"[^>]*+>([\\s\\S]*?)</a>");
+			if (catName == null || "".equals(catName))
+			{
+				continue;
+			}
+			
+			List<String> urls = regexService.getSingleGroupItems(catStr,
+			        "<li><a[^>]*?href=\"([^\"]++)\"");
+			
+			for (String url : urls) {
+				String wholeUrl = formattedPageUrl(host, url);
+				if (wholeUrl == null || wholeUrl.equals(""))
+				{
+					continue;
+				}
+				UrlItem cat = new UrlItem();
+				cat.setCatName(null);
+				cat.setUrl(wholeUrl);
+				cat.setCatName(catName);
+				cats.add(cat);
+			}
+		}
+
+		logger.info("Get " + cats.size()
 		        + " formattedCat2PageUrl");
-		return formattedCat2PageUrls;
+		return cats;
 	}
 
 	private String formattedPageUrl(String host, String url)
@@ -392,11 +426,11 @@ public class InitialParseThread implements Runnable, SchedualSave
 	public void schedualLoad(BDBService bdbService)
 	{
 		@SuppressWarnings("unchecked")
-		Set<String> urls = bdbService.get(BDB_DATABSE_NAME, "urlsToParse",
+		Set<UrlItem> cats = bdbService.get(BDB_DATABSE_NAME, "urlsToParse",
 		        urlsToParse.getClass());
-		if (urls != null)
+		if (cats != null)
 		{
-			urlsToParse = urls;
+			urlsToParse = cats;
 		}
 
 	}

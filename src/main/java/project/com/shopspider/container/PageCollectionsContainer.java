@@ -1,5 +1,11 @@
 package com.shopspider.container;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Map;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
@@ -18,8 +24,12 @@ public class PageCollectionsContainer implements SchedualSave
 
 	private static final String BDB_DATABASE_NAME = "pageCollectionsContainer";
 
-	private BlockingQueue<PageColletion> dataQueue = new LinkedBlockingQueue<PageColletion>();
-
+	private static final String DEFAULT_CAT_NAME = "defaultCatName";
+	
+	private Map<String,BlockingQueue<PageColletion>> dataQueueMap = new HashMap<String,BlockingQueue<PageColletion>>();
+	
+	private String curCatName = null;
+	
 	private ReentrantReadWriteLock readWriteLock = new ReentrantReadWriteLock();
 
 	public void addPageColletion(PageColletion pageColletionToParse)
@@ -28,6 +38,18 @@ public class PageCollectionsContainer implements SchedualSave
 		try
 		{
 			readWriteLock.readLock().lock();
+			
+			String catName = pageColletionToParse.getCatName();
+			if (catName == null || catName.equals(""))
+			{
+				catName = DEFAULT_CAT_NAME;
+			}
+			BlockingQueue<PageColletion> dataQueue = dataQueueMap.get(catName);
+			if(dataQueue == null)
+			{
+				dataQueue = new LinkedBlockingQueue<PageColletion>();
+				dataQueueMap.put(catName, dataQueue);
+			}
 			dataQueue.put(pageColletionToParse);
 		} finally
 		{
@@ -40,11 +62,56 @@ public class PageCollectionsContainer implements SchedualSave
 		try
 		{
 			readWriteLock.readLock().lock();
-			return dataQueue.take();
+			int maxTry = dataQueueMap.size();
+			
+			for (int i = 0; i < maxTry; i++)
+			{
+				curCatName = this.getNextCatName();
+				if (curCatName == null)
+				{
+					return null;
+				}
+				BlockingQueue<PageColletion> dataQueue = dataQueueMap.get(curCatName);
+				if(dataQueue == null || dataQueue.size() == 0)
+				{
+					continue;
+				}
+				logger.info("takePageColletions for catName"+curCatName);
+				return dataQueue.take();
+			}
+			return null;
 		} finally
 		{
 			readWriteLock.readLock().unlock();
 		}
+	}
+	
+	private String getNextCatName()
+	{
+		if (dataQueueMap.keySet().size() == 0)
+		{
+			return null;
+		}
+		
+		List<String> keys = new ArrayList<String>(dataQueueMap.keySet());
+		if (curCatName == null)
+		{
+			if(keys.size() > 0 )
+			{
+				return keys.get(0);
+			}
+			return null;
+		}
+		
+		int curIndex = keys.indexOf(curCatName);
+		
+		if(curIndex == -1 || curIndex == keys.size() - 1)
+		{
+			return keys.get(0);
+		}
+		
+		return keys.get(curIndex + 1);
+		
 	}
 
 	@Override
@@ -53,7 +120,7 @@ public class PageCollectionsContainer implements SchedualSave
 		try
 		{
 			readWriteLock.writeLock().lock();
-			bdbService.put(BDB_DATABASE_NAME, "dataQueue", dataQueue);
+			bdbService.put(BDB_DATABASE_NAME, "dataQueueMap", dataQueueMap);
 		} finally
 		{
 			readWriteLock.writeLock().unlock();
@@ -67,11 +134,11 @@ public class PageCollectionsContainer implements SchedualSave
 		{
 			readWriteLock.writeLock().lock();
 			@SuppressWarnings("unchecked")
-			BlockingQueue<PageColletion> queue = bdbService.get(
-			        BDB_DATABASE_NAME, "dataQueue", dataQueue.getClass());
-			if (queue != null)
+			Map<String,BlockingQueue<PageColletion>> map = bdbService.get(
+			        BDB_DATABASE_NAME, "dataQueueMap", dataQueueMap.getClass());
+			if (map != null)
 			{
-				dataQueue = queue;
+				dataQueueMap = map;
 			}
 		} finally
 		{

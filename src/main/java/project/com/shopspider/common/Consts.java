@@ -24,7 +24,7 @@ public class Consts
 	/**
 	 * &s=10220 中s的最大值
 	 */
-	public static final int MAX_INDEX_PER_COLLECTIONPAGE = 10220;
+	public static final int MAX_INDEX_PER_COLLECTIONPAGE = 3000;
 
 	// 定时保存的时间间隔
 	public static final long SCHEDUALE_SAVE_INTERVAL_IN_SECOND = 60 * 30;
