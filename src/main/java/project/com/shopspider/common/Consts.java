@@ -2,7 +2,7 @@ package com.shopspider.common;
 
 public class Consts
 {
-	public static final int MAX_SHOP_COUNT_PER_COLLECTION = 10000;
+	public static final int MAX_SHOP_COUNT_PER_COLLECTION = 5000;
 	public static final int SHOP_COUNT_PER_PAGE = 20;
 	public static final int NEW_PRODUCT_COUNT_20_PLUS = 21;
 	public static final int PROMOTION_COUNT_20_PLUS = 21;
@@ -28,6 +28,9 @@ public class Consts
 
 	// 定时保存的时间间隔
 	public static final long SCHEDUALE_SAVE_INTERVAL_IN_SECOND = 60 * 30;
-	public static int MAX_COUNT_KEYWORD_QUEUE = 5000000;
+	public static int MAX_COUNT_KEYWORD_QUEUE = 5000;
+	
+	public static int MAX_COUNT_PAGE_COLLECTION_QUEUE = 500;
+
 
 }

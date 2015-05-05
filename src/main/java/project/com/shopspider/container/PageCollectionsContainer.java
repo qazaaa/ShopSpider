@@ -15,6 +15,7 @@ import org.apache.log4j.Logger;
 import com.shopspider.BDB.BDBService;
 import com.shopspider.BDB.SchedualSave;
 import com.shopspider.bean.PageColletion;
+import com.shopspider.common.Consts;
 
 public class PageCollectionsContainer implements SchedualSave
 {
@@ -50,7 +51,10 @@ public class PageCollectionsContainer implements SchedualSave
 				dataQueue = new LinkedBlockingQueue<PageColletion>();
 				dataQueueMap.put(catName, dataQueue);
 			}
-			dataQueue.put(pageColletionToParse);
+			if (dataQueue.size() < Consts.MAX_COUNT_PAGE_COLLECTION_QUEUE)
+			{
+				dataQueue.put(pageColletionToParse);
+			}
 		} finally
 		{
 			readWriteLock.readLock().unlock();
